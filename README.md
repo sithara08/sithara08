@@ -2,7 +2,7 @@
 <h3 align="center">A passionate in software testing and quality assurance</h3>
 
 <div align="center">
-    <img src="https://static.vecteezy.com/system/resources/previews/044/448/942/original/cartoon-character-with-the-desk-working-concept-illustration-free-png.png" alt="Headline" style="width: 200px; />
+    <img src="assets/girl.png" alt="girl" style="width: 200px; />
 </div>
 
 <div align="center" style="padding: 10px;">
