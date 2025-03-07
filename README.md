@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Selenium-1E88E5?style=flat-square&logoColor=white" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/badge/TestNG-3F51B5?style=flat-square&logo=TestNG&logoColor=white" height="25" alt="twitter logo"  />
   <img src="https://img.shields.io/badge/Postman-673AB7?style=flat-square&logo=TestNG&logoColor=white" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/badge/JMeter-F533A2?style=flat-square&logo=TestNG&logoColor=white" height="25" alt="twitter logo"  />
 </div>
 
 </p>
